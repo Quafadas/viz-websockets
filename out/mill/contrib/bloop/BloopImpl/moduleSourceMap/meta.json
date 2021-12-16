@@ -1,0 +1,12 @@
+{
+    "value": {
+        "app": [
+            "/Users/simon/websockets2-0.8.0/app/src"
+        ],
+        "app.test": [
+            "/Users/simon/websockets2-0.8.0/app/test/src"
+        ]
+    },
+    "valueHash": -78058153,
+    "inputsHash": 34209010
+}

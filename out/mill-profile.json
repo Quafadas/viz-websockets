@@ -1,0 +1,202 @@
+[
+    {
+        "label": "app.resources",
+        "millis": 5,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.classpath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.worker",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.upstreamCompileOutput",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.sources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "app.generatedSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.allSources",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "app.allSourceFiles",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "app.transitiveLocalClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.unmanagedClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.scalaVersion",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.platformSuffix",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.compileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.transitiveCompileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.scalaOrganization",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.scalaLibraryIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.ivyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.transitiveIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.resolvedIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.compileClasspath",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.javacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.scalacOptions",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.scalaCompilerClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.scalacPluginIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.scalacPluginClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.compile",
+        "millis": 576,
+        "cached": false
+    },
+    {
+        "label": "app.localClasspath",
+        "millis": 0,
+        "cached": false
+    },
+    {
+        "label": "app.runIvyDeps",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.resolvedRunIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.upstreamAssemblyClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.runClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "mill.scalalib.ZincWorkerModule.backgroundWrapperClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.forkArgs",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.forkEnv",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "app.mainClass",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.finalMainClassOpt",
+        "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "app.finalMainClass",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.forkWorkingDir",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.runUseArgsFile",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "app.runBackground",
+        "millis": 113,
+        "cached": false
+    }
+]
